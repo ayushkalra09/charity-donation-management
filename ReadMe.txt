@@ -21,11 +21,3 @@ Menu Options:
 5. Get Donor's Donation History: View the donation history of a donor by providing their ID.
 6. Print Blockchain: View the blockchain containing recorded donation transactions.
 7. Exit: Quit the program.
-
-
-		*****Team Members*****
-1. Bhavya Bansal-2021A7PS1823H
-2. Ayush Kalra-2021A7PS2222H
-3. Divyanshu-2021AAPS1937H
-4. Aryan Singh-2021A7PS2021H
-5. Jayesh Totlani-2021AAPS1815H
